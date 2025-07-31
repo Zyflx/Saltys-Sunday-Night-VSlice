@@ -14,7 +14,7 @@
             "animType": "sparrow",
             "name": "stageBack",
             "isPixel": false,
-            "assetPath": "stageback",
+            "assetPath": "stages/mainStage/stageback",
             "scroll": [
                 0.9,
                 0.9
@@ -35,7 +35,7 @@
             "animType": "sparrow",
             "name": "stageFront",
             "isPixel": false,
-            "assetPath": "stagefront",
+            "assetPath": "stages/mainStage/stagefront",
             "scroll": [
                 0.9,
                 0.9
@@ -56,7 +56,7 @@
             "animType": "sparrow",
             "name": "stageCurtains",
             "isPixel": false,
-            "assetPath": "stagecurtains",
+            "assetPath": "stages/mainStage/stagecurtains",
             "scroll": [
                 1.3,
                 1.3
@@ -81,12 +81,12 @@
         "dad": {
             "zIndex": 200,
             "position": [
-                751.5,
-                787
+                335,
+                885
             ],
             "cameraOffsets": [
-                0,
-                -80
+                150,
+                -100
             ]
         },
         "gf": {
@@ -98,8 +98,7 @@
             "position": [
                 751.5,
                 787
-            ],
-            "alpha": 0
+            ]
         }
     },
     "name": "Main Stage (Salty's Sunday Night)",

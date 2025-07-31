@@ -1,0 +1,24 @@
+import funkin.play.PlayState;
+import funkin.play.character.CharacterType;
+import funkin.play.character.SparrowCharacter;
+
+class Itsumi extends SparrowCharacter {
+    public function new():Void {
+        super('itsumi');
+    }
+
+    override function onAdd():Void {
+        if(characterType == CharacterType.DAD) {
+            var gfPos: FlxPoint = PlayState.instance.currentStage.getGirlfriendPosition();
+            var gfCamPos: FlxPoint = PlayState.instance.currentStage.getGirlfriend().cameraFocusPoint;
+
+            originalPosition.x = gfPos.x - characterOrigin.x;
+            originalPosition.y = gfPos.y - characterOrigin.y;
+            resetPosition();
+
+            cameraFocusPoint = gfCamPos;
+            cameraFocusPoint.y -= 80;
+            PlayState.instance.currentStage.getGirlfriend().visible = false;
+        }
+    }
+}
