@@ -8,6 +8,10 @@
         "id": "itsumi",
         "isPixel": false
     },
+    "cameraOffsets": [
+        -150,
+        10
+    ],
     "animations": [
         {
             "name": "danceLeft",
