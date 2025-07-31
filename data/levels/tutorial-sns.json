@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "name": "FT. ITSUMI",
+    "titleAsset": "storymenu/titles/tutorial",
+    "props": [],
+    "background": "#FFFFFF",
+    "songs": ["best-girl"]
+}

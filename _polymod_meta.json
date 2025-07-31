@@ -1,0 +1,14 @@
+{
+    "title": "Salty's Sunday Night (V-Slice)",
+    "description": "V-Slice port of a mod from the old modding days, Salty's Sunday Night!",
+    "contributors": [
+        {
+            "name": "Zyflx",
+            "role": "Porter",
+            "url": "https://x.com/Zyflx"
+        }
+    ],
+    "api_version": "0.7.3",
+    "mod_version": "0.1.0",
+    "license": "Apache 2.0"
+}
