@@ -8,6 +8,7 @@
 		"vocals": {}
 	},
 	"playData": {
+		"album": "salty",
 		"stage": "mainStage-sns",
 		"songVariations": [],
 		"noteStyle": "funkin",
