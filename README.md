@@ -11,5 +11,5 @@ Port of a mod from the old modding days, Salty's Sunday Night!
 ## Original Authors
 
 - [Tsuraran](https://gamebanana.com/members/1770214) - Pretty Much Everything
-- [Maqua](https://gamebanana.com/members/1858037) - Songs for Weeks 1, 4, and 6
+- [Maqua](https://gamebanana.com/members/1858037) - Composer for Daughter Complex, Rising Star, and Logarithms
 - [Radhew](https://x.com/radhewc) - Salt Engine Creator
