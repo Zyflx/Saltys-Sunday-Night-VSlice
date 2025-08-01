@@ -1,0 +1,38 @@
+{
+	"timeFormat": "ms",
+	"artist": "Maqua",
+	"charter": "Tsuraran",
+	"offsets": {
+		"altInstrumentals": {},
+		"instrumental": 0,
+		"vocals": {}
+	},
+	"playData": {
+		"album": "salty",
+		"stage": "mainStage-sns",
+		"songVariations": [],
+		"noteStyle": "sns",
+		"difficulties": [
+			"hard"
+		],
+		"characters": {
+			"girlfriend": "itsumi",
+			"opponent": "dadexe",
+			"player": "salty"
+		},
+		"ratings": {
+			"hard": 5
+		}
+	},
+	"songName": "Daddy's Girl",
+	"timeChanges": [
+		{
+			"d": 4,
+			"n": 4,
+			"t": 0,
+			"bpm": 100
+		}
+	],
+	"generatedBy": "Moonchart 0.4.0",
+	"version": "2.2.2"
+}
